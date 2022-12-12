@@ -11,3 +11,5 @@ coverage.xml
 .coverage
 tests/.coverage
 .DS_Store
+output.dat
+timer.dat
